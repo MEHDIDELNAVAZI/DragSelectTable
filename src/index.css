@@ -1,0 +1,18 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+td {
+  text-align: center;
+  vertical-align: middle;
+  border: solid rgb(209, 204, 204) 1px;
+  cursor: pointer;
+  position: relative;
+  user-select: none;
+  padding: 10px;
+  width: 100px;
+}
+table {
+margin: auto;
+margin-top: 100px;
+}
