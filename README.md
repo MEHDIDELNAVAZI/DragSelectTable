@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+[Demo](https://drag-select-table.vercel.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -30,5 +31,4 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-![](https://github.com/MEHDIDELNAVAZI/DragSelectTable/blob/main/src/assets/Screen%20Recording%202024-01-10%20at%2010.42.09%E2%80%AFPM%20(online-video-cutter.com).gif)
 
